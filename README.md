@@ -1,2 +1,4 @@
-###Binary Disruption Hackathon Product - Mircosoft Hololens Augmented Reality 
+# Binary Disruption Hackathon (Mini Millers) 
+*Mircosoft Hololens Augmented Reality*
 
+By Sydney Jenkins and Georgiana Wright
